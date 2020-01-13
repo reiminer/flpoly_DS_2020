@@ -1,23 +1,23 @@
-## First Name Last Name
+## Lionel Messi
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- STA 3241 Statistical Learning
 
-- Course 2
+- COP 2073 Intro to Data Science
 
-- Course 3
+- CAP 5320 Data Wrangling
 
-- Course 4
+- EGN 3448 OPerations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- All things data
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Soccer as shown in this website <https://www.fcbarcelona.com/en/>
