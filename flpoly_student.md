@@ -1,6 +1,6 @@
 ## Lionel Messi
 
-### Spring 2020 
+### Spring 2020 - `@reiminer`
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
@@ -8,9 +8,9 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 - COP 2073 Intro to Data Science
 
-- CAP 5320 Data Wrangling
+- CAP 5320 Data Wrangling and EDA
 
-- EGN 3448 OPerations Research
+- EGN 3448 Operations Research
 
 **Hobbies:**
 
